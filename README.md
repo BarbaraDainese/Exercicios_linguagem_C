@@ -1,0 +1,2 @@
+# Exercicios_linguagem_C
+ Exercicios_pratica_linguagem_C
